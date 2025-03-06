@@ -1,5 +1,5 @@
 task: ifeval_de
-dataset_path: jzhang86/de_ifeval
+dataset_path: "DRXD1000/IFEval-de"
 dataset_name: null
 output_type: generate_until
 test_split: train
